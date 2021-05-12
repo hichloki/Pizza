@@ -1,0 +1,58 @@
+
+body{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+.table{
+    margin-top: 5%;
+    color: rgb(211, 9, 9);
+    min-width: 30vh;
+
+
+}
+#Tpizza{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 500;
+    color: rgb(247, 247, 247);
+}
+.navbar-toggler{
+    margin-right: 5%;
+}
+
+.dropdown-menu{margin-right:10% ;}
+
+#top{
+    background-image: url(img/fondpizza.jpg);
+    background-size:cover;
+    height:100vhpx;
+    min-width: 90vw;
+    margin-top: -0.2%;
+}
+
+.container2{
+margin-top:3% ;
+}
+
+.container3{
+    margin-top: 2%;
+    text-align: center;
+}
+
+#info{
+    margin-left: 25%;
+    padding-bottom: -15%;
+}
+#Menu{
+    background-image: url(img/3007281.jpg);
+    background-size: cover;
+    min-height: 900px;
+}
+
+.menu1{
+    border: solid 4px white;
+    width: 80%;
+    margin-left:10% ;
+    margin-top: 2%;
+}
